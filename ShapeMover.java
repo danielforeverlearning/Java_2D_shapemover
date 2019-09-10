@@ -40,7 +40,7 @@ import java.awt.image.*;
  * double buffering.
  */
  
-
+//https://docs.oracle.com/javase/tutorial/2d/index.html
 //"C:\Program Files\Java\jdk1.8.0_144\bin\javac.exe" ShapeMover.java
 //"C:\Program Files\Java\jdk1.8.0_144\bin\java.exe" ShapeMover
  
